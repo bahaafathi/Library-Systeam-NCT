@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KGradientPanel-master/KGradientPanel-master.iml" filepath="$PROJECT_DIR$/KGradientPanel-master/KGradientPanel-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Systeam.iml" filepath="$PROJECT_DIR$/Library Systeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KGradientPanel-master/dist/dist.iml" filepath="$PROJECT_DIR$/KGradientPanel-master/dist/dist.iml" />
+    </modules>
+  </component>
+</project>
